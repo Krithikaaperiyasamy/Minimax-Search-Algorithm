@@ -272,5 +272,8 @@ while True:
 
 <img width="922" height="787" alt="Screenshot 2026-11-25 100617" src="https://github.com/user-attachments/assets/ef503166-bc14-4757-9bb8-6f0fc13c2da2" />
 
+<img width="698" height="322" alt="image" src="https://github.com/user-attachments/assets/719ed492-25fb-4441-a1c5-28f0a64ec6a7" />
+
+
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
